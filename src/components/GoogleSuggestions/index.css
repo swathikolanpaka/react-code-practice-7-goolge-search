@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.suggestionlist-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.img {
+  height: 15vh;
+  width: 40vh;
+}
+.search {
+  height: 5vh;
+}

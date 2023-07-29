@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  justify-content: space-evenly;
+}
+.button-prop {
+  cursor: pointer;
+  outline: none;
+  border-width: 0vh;
+  background-color: #ffffff;
+}
+img {
+  height: 5vh;
+}
